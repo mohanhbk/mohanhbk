@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hello 
 
-<!--
-**mohanhbk/mohanhbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 Who am I 
 
-Here are some ideas to get you started:
+- I'm a Software Engineer with a strong passion for Test and Automation engineering and am a **polyglot programmer** who loves to code in **C#, Python, and Javascript**
+- I like to build scalable test automation frameworks and utilities to solve testing and automation problems.
+- I believe in understanding and testing all the layers of the stack and have worked with Web Frontend and Backend systems throughout my career across different domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌱 I’m currently learning about ...
+
+- Docker and Kubernetes for test Automation
+- Design patterns and Refactoring techniques in Cypress
+- Resiliency Testing using LitmusChaos
+- gRPC Automation for backend services
+- Performance Testing gRPC and Rest API layers
+- Dataflow testing across backend services
